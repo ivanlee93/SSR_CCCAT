@@ -1,0 +1,114 @@
+{
+	"aero.cccat.io" : {
+		"totalUploadBytes" : 21121,
+		"totalDownloadBytes" : 251581
+	},
+	"mumbai.cccat.io" : {
+		"totalUploadBytes" : 38900,
+		"totalDownloadBytes" : 76151
+	},
+	"mirage.cccat.io" : {
+		"totalUploadBytes" : 17228,
+		"totalDownloadBytes" : 37489
+	},
+	"istanbul.cccat.io" : {
+		"totalUploadBytes" : 15295,
+		"totalDownloadBytes" : 29174
+	},
+	"echo.cccat.io" : {
+		"totalUploadBytes" : 12326,
+		"totalDownloadBytes" : 129979
+	},
+	"spark.cccat.io" : {
+		"totalUploadBytes" : 31325,
+		"totalDownloadBytes" : 35971
+	},
+	"manila.cccat.io" : {
+		"totalUploadBytes" : 2801,
+		"totalDownloadBytes" : 19726
+	},
+	"scheat.cccat.io" : {
+		"totalUploadBytes" : 19896,
+		"totalDownloadBytes" : 229484
+	},
+	"montreal.cccat.io" : {
+		"totalUploadBytes" : 4879,
+		"totalDownloadBytes" : 219114
+	},
+	"camelia.cccat.io" : {
+		"totalUploadBytes" : 41070,
+		"totalDownloadBytes" : 32131
+	},
+	"frankfurt.cccat.io" : {
+		"totalUploadBytes" : 6547,
+		"totalDownloadBytes" : 16812
+	},
+	"setsuna.cccat.io" : {
+		"totalUploadBytes" : 20352,
+		"totalDownloadBytes" : 501266
+	},
+	"aki.cccat.io" : {
+		"totalUploadBytes" : 7384,
+		"totalDownloadBytes" : 21107
+	},
+	"miach.cccat.io" : {
+		"totalUploadBytes" : 1646,
+		"totalDownloadBytes" : 8319
+	},
+	"sydney.cccat.io" : {
+		"totalUploadBytes" : 3940,
+		"totalDownloadBytes" : 213777
+	},
+	"spica.z9elb7.cccat.io" : {
+		"totalUploadBytes" : 9775,
+		"totalDownloadBytes" : 726765
+	},
+	"vega.cccat.io" : {
+		"totalUploadBytes" : 10362,
+		"totalDownloadBytes" : 95810
+	},
+	"vienna.cccat.io" : {
+		"totalUploadBytes" : 5140,
+		"totalDownloadBytes" : 9503
+	},
+	"polaris.cccat.io" : {
+		"totalUploadBytes" : 4886,
+		"totalDownloadBytes" : 9138
+	},
+	"mirai.cccat.io" : {
+		"totalUploadBytes" : 11895,
+		"totalDownloadBytes" : 24360
+	},
+	"jakarta.cccat.io" : {
+		"totalUploadBytes" : 4079,
+		"totalDownloadBytes" : 8361
+	},
+	"dublin.cccat.io" : {
+		"totalUploadBytes" : 8558,
+		"totalDownloadBytes" : 27452
+	},
+	"paris.cccat.io" : {
+		"totalUploadBytes" : 5102,
+		"totalDownloadBytes" : 7562
+	},
+	"monika.cccat.io" : {
+		"totalUploadBytes" : 4059,
+		"totalDownloadBytes" : 12363
+	},
+	"paulistano.cccat.io" : {
+		"totalUploadBytes" : 9148,
+		"totalDownloadBytes" : 14550
+	},
+	"stardust.cccat.io" : {
+		"totalUploadBytes" : 2621,
+		"totalDownloadBytes" : 7877
+	},
+	"vanda.cccat.io" : {
+		"totalUploadBytes" : 6237,
+		"totalDownloadBytes" : 15408
+	},
+	"mizar.cccat.io" : {
+		"totalUploadBytes" : 2549,
+		"totalDownloadBytes" : 7684
+	}
+}
